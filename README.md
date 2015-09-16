@@ -33,6 +33,12 @@ Place the following code between `<head>...</head>` tag in your HTML:
 <link rel="stylesheet" href="/bower_components/bpg-ingiri-arial/css/bpg-ingiri-arial.css">
 ```
 
+for NPM:
+
+```html
+<link rel="stylesheet" href="/node_modules/bpg-ingiri-arial/css/bpg-ingiri-arial.css">
+```
+
 Place the following code to your stylesheets, or use another css selector instead of `body`.
 
 ```css
